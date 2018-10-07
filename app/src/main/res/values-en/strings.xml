@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Station</string>
+    <string name="title_temp">Temperature</string>
+    <string name="title_hum">Humidity</string>
+    <string name="title_press">Pressure</string>
+    <string name="refresh">Refresh</string>
+    <string name="settings">Settings</string>
+    <string name="station_ip_address">Station IP address</string>
+    <string name="to_fahrenheit">Switch to Fahrenheit</string>
+    <string name="refresh_time">Refresh data every (minutes):</string>
+    <string name="error">Error!</string>
+    <string name="error_message">Cannot connect to station. Check settings!</string>
+    <string name="weather_city">Weather for your location</string>
+    <string name="weather_wind">Wind</string>
+    <string name="show_more">more...</string>
+    <string name="weather_pressure">Pressure:</string>
+    <string name="weather_epoch">Updated:</string>
+    <string name="what_city">Choose your city:</string>
+</resources>

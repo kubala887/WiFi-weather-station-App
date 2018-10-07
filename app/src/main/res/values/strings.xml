@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Stacja Pogodowa</string>
+    <string name="title_temp">Temperatura</string>
+    <string name="title_hum">Wilgotność</string>
+    <string name="title_press">Ciśnienie</string>
+    <string name="refresh">Odśwież</string>
+    <string name="settings">Ustawienia</string>
+    <string name="station_ip_address">Adres IP stacji</string>
+    <string name="to_fahrenheit">Zmień jednostki na Fahrenheity</string>
+    <string name="refresh_time">Aktualizuj dane co (minuty):</string>
+    <string name="error">Błąd!</string>
+    <string name="error_message">Nie można połączyć ze stacją. Sprawdź ustawienia!</string>
+
+    <string-array name="miasta">
+        <item>Bialystok</item>
+        <item>Bydgoszcz</item>
+        <item>Gdansk</item>
+        <item>Gorzow Wielkopolski</item>
+        <item>Katowice</item>
+        <item>Kielce</item>
+        <item>Krakow</item>
+        <item>Lublin</item>
+        <item>Lodz</item>
+        <item>Olsztyn</item>
+        <item>Poznan</item>
+        <item>Rzeszow</item>
+        <item>Szczecin</item>
+        <item>Warszawa</item>
+        <item>Wroclaw</item>
+        <item>Zielona Gora</item>
+    </string-array>
+
+    <string name="weather_city">Pogoda dla twojej miejscowości</string>
+    <string name="weather_wind">Wiatr:</string>
+    <string name="show_more">więcej...</string>
+    <string name="weather_pressure">Ciśnienie:</string>
+    <string name="weather_epoch">Dane z:</string>
+    <string name="what_city">Wybierz swoje miasto:</string>
+
+</resources>
