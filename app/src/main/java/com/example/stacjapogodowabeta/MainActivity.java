@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity {
     static ImageView imageViewTloMain;
 
     //Klucze API
-    static String wysokoscKlucz = "AIzaSyCEJLoV8utTy08H2g-ACvD-4fonn-GTBf4"; //elevation google API
-    static String pogodaKlucz = "4435f002fb897a5c43d4470558189f63"; //openWeather API
+    static String wysokoscKlucz = "aaa"; //elevation google API
+    static String pogodaKlucz = "444"; //openWeather API
 
     //przechowywanie ustawien
     String ip = "192.168.1.100";
